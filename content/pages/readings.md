@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains a list of readings by week including links to lecture
+  summaries and online journal articles.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: ec8c8aaa-aa97-6b66-e3e3-be23a8d0be52
 ---
@@ -29,7 +34,7 @@ READINGS
 
 Introduction and Overview
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Introduction)
+{{% resource_link 1b568b83-8a89-c15f-8ca4-0d13a0ad9a9d "See the Lecture Summary" "#Introduction" %}}
 
 
 {{< tdclose >}}
@@ -47,7 +52,7 @@ No readings
 
 Wine and Beer: Ethanol
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Wine)
+{{% resource_link 1b568b83-8a89-c15f-8ca4-0d13a0ad9a9d "See the Lecture Summary" "#Wine" %}}
 
 
 {{< tdclose >}}
@@ -71,7 +76,7 @@ Ehsani, M., M. R. Fernández, et al. "[Engineering of 2,3-Butanediol Dehydrogena
 
 Food Additives
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Food)
+{{% resource_link 1b568b83-8a89-c15f-8ca4-0d13a0ad9a9d "See the Lecture Summary" "#Food" %}}
 
 
 {{< tdclose >}}
@@ -95,7 +100,7 @@ Schultz, C., A. Niebisch, et al. "[Glutamate Production by _Corynebacterium glut
 
 Amino Acids
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Amino)
+{{% resource_link 1b568b83-8a89-c15f-8ca4-0d13a0ad9a9d "See the Lecture Summary" "#Amino" %}}
 
 
 {{< tdclose >}}
@@ -119,7 +124,7 @@ Becker, J., O. Zelder, et al. "[From Zero to Hero—Design-based Systems Metabol
 
 Enzymes
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Enzymes)
+{{% resource_link 1b568b83-8a89-c15f-8ca4-0d13a0ad9a9d "See the Lecture Summary" "#Enzymes" %}}
 
 
 {{< tdclose >}}
@@ -143,7 +148,7 @@ Pushpam, P. L., R. Thangamani, et al. "[Identification and Characterization of A
 
 Specialty Chemicals
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Specialty)
+{{% resource_link 1b568b83-8a89-c15f-8ca4-0d13a0ad9a9d "See the Lecture Summary" "#Specialty" %}}
 
 
 {{< tdclose >}}
@@ -167,7 +172,7 @@ Litsanov, B., A. Kabus, et al. "[Efficient Aerobic Succinate Production from Glu
 
 Field Trip
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Field)
+{{% resource_link 1b568b83-8a89-c15f-8ca4-0d13a0ad9a9d "See the Lecture Summary" "#Field" %}}
 
 
 {{< tdclose >}}
@@ -185,7 +190,7 @@ No readings
 
 Biofuels I
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Biofuels_I)
+{{% resource_link 1b568b83-8a89-c15f-8ca4-0d13a0ad9a9d "See the Lecture Summary" "#Biofuels_I" %}}
 
 
 {{< tdclose >}}
@@ -209,7 +214,7 @@ Dellomonaco, C., J. M. Clomburg, et al. "[Engineered Reversal of the β-oxidatio
 
 Biofuels II
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Biofuels_II)
+{{% resource_link 1b568b83-8a89-c15f-8ca4-0d13a0ad9a9d "See the Lecture Summary" "#Biofuels_II" %}}
 
 
 {{< tdclose >}}
@@ -233,7 +238,7 @@ Alvarez, A. F., H. M. Alvarez, et al. "[Cloning and Characterization of a Gene I
 
 Biopolymers I
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Biopolymers_I)
+{{% resource_link 1b568b83-8a89-c15f-8ca4-0d13a0ad9a9d "See the Lecture Summary" "#Biopolymers_I" %}}
 
 
 {{< tdclose >}}
@@ -257,7 +262,7 @@ Budde, C. F., S. L. Riedel, et al. "[Production of Poly(3-hydroxybutyrate-co-3-h
 
 Biopolymers II
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Biopolymers_II)
+{{% resource_link 1b568b83-8a89-c15f-8ca4-0d13a0ad9a9d "See the Lecture Summary" "#Biopolymers_II" %}}
 
 
 {{< tdclose >}}
@@ -281,7 +286,7 @@ Lin, K., Y. Elbahloul, et al. "[Physiological Conditions Conducive to High Cell 
 
 Biopharmaceuticals and Biosensors
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Biopharmaceuticals)
+{{% resource_link 1b568b83-8a89-c15f-8ca4-0d13a0ad9a9d "See the Lecture Summary" "#Biopharmaceuticals" %}}
 
 
 {{< tdclose >}}
@@ -305,7 +310,7 @@ Bahl, M. I., L. H. Hansen, et al. "[In Vivo Detection and Quantification of Tetr
 
 Oral Presentations
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Oral)
+{{% resource_link 1b568b83-8a89-c15f-8ca4-0d13a0ad9a9d "See the Lecture Summary" "#Oral" %}}
 
 
 {{< tdclose >}}
