@@ -32,7 +32,7 @@ LECTURE SUMMARIES
 Introduction and Overview
 {{< tdclose >}}
 {{< tdopen >}}
-{{< anchor "Introduction" >}}{{< /anchor >}}Instructors and students will introduce themselves and discuss the course objectives and syllabus. We will also introduce the field of microbial biotechnology and genetic engineering. We will describe public paper databases like [PubMed](http://www.ncbi.nlm.nih.gov/sites/entrez) and talk about the general structure of scientific publications.
+{{< anchor "Introduction" >}}{{< /anchor >}}Instructors and students will introduce themselves and discuss the course objectives and syllabus. We will also introduce the field of microbial biotechnology and genetic engineering. We will describe public paper databases like {{% resource_link "e20a0cfb-b740-4af9-a80b-c2b2b7038436" "PubMed" %}} and talk about the general structure of scientific publications.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -104,7 +104,7 @@ Specialty Chemicals
 Field Trip: Microbia
 {{< tdclose >}}
 {{< tdopen >}}
-{{< anchor "Field" >}}{{< /anchor >}}Field trip to a biotechnology company. Instead of regular class this week, we will visit [Microbia](http://www.microbia.com/) in Cambridge, MA. Microbia is a company that utilizes recombinant bacteria to produce biopolymers (e.g. poly-hydroxyalkanoates), biofuel molecules, and other chemicals from carbon sources like refined sugars. We will hear an overview about the company and its mission and then take a tour of the facilities to see the production processes up close.
+{{< anchor "Field" >}}{{< /anchor >}}Field trip to a biotechnology company. Instead of regular class this week, we will visit {{% resource_link "17521306-5a3a-4448-bb3a-355297ec11ad" "Microbia" %}} in Cambridge, MA. Microbia is a company that utilizes recombinant bacteria to produce biopolymers (e.g. poly-hydroxyalkanoates), biofuel molecules, and other chemicals from carbon sources like refined sugars. We will hear an overview about the company and its mission and then take a tour of the facilities to see the production processes up close.
 {{< tdclose >}}
 
 {{< trclose >}}

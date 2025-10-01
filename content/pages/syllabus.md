@@ -144,7 +144,7 @@ Written assignment due
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Field trip: [Microbia](http://www.microbia.com/)
+Field trip: {{% resource_link "17521306-5a3a-4448-bb3a-355297ec11ad" "Microbia" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
